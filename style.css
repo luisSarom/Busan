@@ -1,0 +1,121 @@
+body {
+    margin: 40px;
+    font-family:"Open Sans", sans-serif;
+    text-align:left;
+    display: flex;
+    flex-wrap: wrap;
+    width: 70vw;
+
+}
+
+h5 {
+
+    
+    margin-bottom: 0px;
+    color: #e1624f;
+    
+
+
+}
+
+h1 {
+    font-size: 49px;
+    margin-top: 0px;
+   
+}
+
+#italic {
+    
+    font-style: italic;
+    font-size: 16px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 44px;
+    margin-top: 0px;
+}
+
+img {
+    border-radius: 28px;
+    width: 1120px;
+    height: 660px;      
+}
+
+
+
+#padding{
+    font-size: 683px,68px;
+}
+    
+
+
+#praia{
+   
+    height:350px ;
+}
+
+.grande {
+    font-size: 38px;
+    font-weight: bold;
+    margin-left: 40px;
+}
+ul {
+    list-style-type: disc;
+    font-size: 16px;
+    
+}
+.title {
+    color: black;
+    font-weight: bold;
+   
+    font-size: 16px;
+
+}
+
+.paragrafo-list{
+    margin-left: -25px;
+    margin-bottom: 0px;
+
+
+}
+.imagens{
+    height: 350px;
+}
+ol{
+    padding-left: 0px;
+}
+
+footer{
+    text-align: center;
+    
+}
+
+.margin {
+    padding: 50px;
+}
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+    
